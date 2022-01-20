@@ -1628,3 +1628,42 @@ a {
     left: -1rem;
   }
 }
+.cid-sV01ZjEWzs {
+  padding-top: 5rem;
+  padding-bottom: 9rem;
+  background-color: #ffffff;
+}
+.cid-sV01ZjEWzs .bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-sV01ZjEWzs .bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-sV01ZjEWzs .bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-sV01ZjEWzs .bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-sV01ZjEWzs .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-sV01ZjEWzs [class^="socicon-"]:before,
+.cid-sV01ZjEWzs [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
+}
+.cid-sV68xP1T9Q {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-color: #ffffff;
+}
