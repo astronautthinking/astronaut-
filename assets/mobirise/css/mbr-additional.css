@@ -1190,6 +1190,22 @@ a {
 .cid-sUkz7JqqIT .mbr-section-title {
   color: #ffffff;
 }
+.cid-sW0nxEPoD0 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sW0nxEPoD0 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sW0nxEPoD0 .row {
+  flex-direction: row-reverse;
+}
+.cid-sW0nxEPoD0 img {
+  width: 100%;
+}
 .cid-sVUkBO3cOt {
   padding-top: 5rem;
   padding-bottom: 5rem;
